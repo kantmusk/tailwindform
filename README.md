@@ -12,11 +12,8 @@ This project contains a simple yet elegant registration form designed with Tailw
 
 Include a screenshot or a gif of the form here for a quick preview.
 
-![Registration Form Preview](path-to-your-screenshot.png)
+![Registration Form Preview](./screenshort.jpg)
 
-## Live Demo
-
-You can view a live demo of the registration form [here](#). (Link to your hosted form)
 
 ## Prerequisites
 
@@ -31,4 +28,4 @@ To set up this project locally, follow these steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/tailwind-registration-form.git
+   git clone git clone https://github.com/yourusername/tailwind-registration-form.git
